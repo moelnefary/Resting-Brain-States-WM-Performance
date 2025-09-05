@@ -102,19 +102,19 @@ InterstateMindways-NMA2025/
 Each notebook can be opened directly in **Google Colab**:  
 
 - Starter Notebook (Neuromatch data loading)  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<moelnefary>/<Resting-BrainStates-WM-Performance>/blob/main/notebooks/load_hcp.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moelnefary/Resting-BrainStates-WM-Performance/blob/main/notebooks/load_hcp.ipynb)  
 
 - PCA Analysis  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<moelnefary>/<Resting-BrainStates-WM-Performance>/blob/main/notebooks/pca_analysis.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moelnefary/Resting-BrainStates-WM-Performance/blob/main/notebooks/pca_analysis.ipynb)  
 
 - K-Means Analysis  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<moelnefary>/<Resting-BrainStates-WM-Performance>/blob/main/notebooks/kmeans_analysis.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moelnefary/Resting-BrainStates-WM-Performance/blob/main/notebooks/kmeans_analysis.ipynb)  
 
 - HMM Analysis  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<moelnefary>/<Resting-BrainStates-WM-Performance>/blob/main/notebooks/hmm_analysis.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moelnefary/Resting-BrainStates-WM-Performance/blob/main/notebooks/hmm_analysis.ipynb)  
 
 - t-SNE Analysis  
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<moelnefary>/<Resting-BrainStates-WM-Performance>/blob/main/notebooks/tsne_analysis.ipynb)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moelnefary/Resting-BrainStates-WM-Performance/blob/main/notebooks/tsne_analysis.ipynb)  
 
 
 ---
@@ -133,7 +133,7 @@ Each notebook can be opened directly in **Google Colab**:
 ### 🔍 Result_3
 ![Result_3](results/result_3.png)
 
-### 🔍 Result_1
+### 🔍 Result_4
 ![Result_4](results/result_4.png)
 
 
