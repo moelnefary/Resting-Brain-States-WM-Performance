@@ -1,0 +1,24 @@
+# Core scientific stack
+numpy
+scipy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Neuroimaging
+nilearn
+nibabel
+
+# Machine learning / models
+hmmlearn
+
+# Notebooks
+jupyter
+ipython
+
+# Optional (if you used deep learning approaches)
+torch
+tensorflow
