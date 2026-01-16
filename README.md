@@ -126,7 +126,7 @@ Each notebook can be opened directly in **Google Colab**:
 
 ### 🔍 Result_1
 ![Result_1](results/result_1.png)
-
+   
 ### 🔍 Result_2
 ![Result_2](results/result_2.png) 
 
