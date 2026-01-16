@@ -19,7 +19,7 @@ Because of licensing restrictions, the raw HCP fMRI data is **not included** in 
   - Working Memory (WM) task fMRI (2-back / 0-back blocks)  
 
 ---
-
+ 
 ## 🛠️ How We Accessed It
 
 During the **Neuromatch Academy 2025 (Computational Neuroscience track)**, we were provided with a **starter notebook** that:  
