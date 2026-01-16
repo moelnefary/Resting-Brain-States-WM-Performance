@@ -10,7 +10,7 @@ seaborn
 
 # Neuroimaging
 nilearn
-nibabel
+nibabel 
 
 # Machine learning / models
 hmmlearn
